@@ -1,0 +1,15 @@
+{
+  "name": "cel2fah",
+  "version": "1.0.0",
+  "description": "Celsius to Farenheit",
+  "main": "cel2fah.js",
+  "dependencies": {
+    "readline-sync": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
